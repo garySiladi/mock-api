@@ -1,5 +1,5 @@
 {
-   "groupa":[
+   "group-a":[
       {
          "id":20805,
          "rating":4.26
@@ -101,7 +101,7 @@
          "rating":3.52
       }
    ],
-   "groupb":[
+   "group-b":[
       {
          "id":126047,
          "rating":4.42
